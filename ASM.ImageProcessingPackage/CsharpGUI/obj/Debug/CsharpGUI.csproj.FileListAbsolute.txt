@@ -1,0 +1,34 @@
+c:\users\ibrahim amer\documents\visual studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb

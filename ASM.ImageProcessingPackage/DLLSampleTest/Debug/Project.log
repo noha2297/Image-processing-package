@@ -1,0 +1,13 @@
+﻿  Assembling main.asm...
+main.asm(297): warning A6004: procedure argument or local not referenced : Arr2_size
+main.asm(314): warning A6004: procedure argument or local not referenced : Arr2_size
+main.asm(320): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(320): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(320): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.lib and object D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.exp
+  Project.vcxproj -> D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.dll
+  Project.vcxproj -> D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.pdb (Full PDB)
+  D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied
+  D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied

@@ -1,0 +1,23 @@
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe.config
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.pdb
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe.config
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe.config
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.pdb
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.exe
+C:\Users\Lenovo\Desktop\ASM.ImageProcessingPackage - Copy\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.pdb
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe.config
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.pdb
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.exe
+D:\bioinformatics fcis material\3 rd year term 1\assembly\project\ASM.ImageProcessingPackage v3\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.pdb
